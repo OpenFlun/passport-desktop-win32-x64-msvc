@@ -1,0 +1,14 @@
+{
+  "name": "@flun/passport-desktop-win32-x64-msvc",
+  "version": "1.0.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "passport-desktop.win32-x64-msvc.node",
+  "publishConfig": {
+    "access": "public"
+  }
+}

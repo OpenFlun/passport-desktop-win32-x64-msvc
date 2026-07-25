@@ -1,7 +1,8 @@
 # Changelog
+## [1.0.2] - 2026-07-25 08:41
+- 修复了 Windows hello 弹窗弹出时没有置顶的问题;
 
 ## [1.0.1] - 2026-07-24 16:25
-
 ### 新增
 - 首次发布 `@flun/passport-desktop-win32-x64-msvc` 🎉
 - 提供 Windows Hello 身份验证的 Node.js 原生模块（基于 MSVC 编译的 `.node` 文件）

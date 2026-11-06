@@ -1,5 +1,6 @@
 {
   "name": "@flun/passport-desktop-win32-x64-msvc",
+  "description": "passport-desktop 的 Windows 64 位平台二进制包(win32-x64-msvc);",
   "version": "1.0.8",
   "os": [
     "win32"
@@ -11,6 +12,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "passport-desktop 的 Windows 64 位平台二进制包(win32-x64-msvc);",
   "license": "ISC"
 }

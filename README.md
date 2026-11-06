@@ -12,7 +12,7 @@
 ## 安装
 
 ```bash
-npm install @flun/passport-desktop-win32-x64-msvc
+npm i @flun/passport-desktop-win32-x64-msvc
 ```
 
 本包仅支持 Windows 64 位(x64);安装时 npm 会依据 `os` 与 `cpu` 字段自动跳过不匹配的平台;
